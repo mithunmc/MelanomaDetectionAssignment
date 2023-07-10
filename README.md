@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Melanoma Detection Assignment
 
 
 ## Table of Contents
@@ -74,27 +74,18 @@ Write your findings after the model fit, see if the issues are resolved or not?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+-After rebalanciung the class, we can see from the above result graph that there is a considerable improvement in the validation loss and validation accuracy. Hence we can say that we have dealt with the overfitting issue that was occuring without the dropout.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Keras
+-TensorFlow
+-Python 3
+-Pandas, Numpy, Matplotlib,
+-Augmentor
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
