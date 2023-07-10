@@ -88,7 +88,7 @@ Write your findings after the model fit, see if the issues are resolved or not?
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mithunmc] - feel free to contact me!
 
 
 <!-- Optional -->
